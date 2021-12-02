@@ -1,8 +1,9 @@
-import React from 'react';
+import NavBar from './components/nav';
 
 function App() {
   return (
     <div> 
+      <NavBar/>
       This is a test
     </div>
   );
